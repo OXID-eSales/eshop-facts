@@ -1,8 +1,6 @@
 OXID eShop facts
 ================
 
-![stability-deprecated](https://img.shields.io/badge/stability-deprecated-red.svg)
-
 This component is dedicated to provide primary information/facts about current
 eShop installation. The information is provided in two ways:
 
