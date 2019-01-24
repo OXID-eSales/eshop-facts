@@ -1,7 +1,7 @@
 {
     "name": "oxid-esales/eshop-facts",
     "description": "OXID eShop facts",
-    "license": "GPL-3.0",
+    "license": "GPL-3.0-only",
     "require": {},
     "bin": [
         "./oe-eshop-facts",
